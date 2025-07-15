@@ -1,4 +1,3 @@
-# Assignment1_Task1
 # Basic Mathematical Operations
 a=input('Enter first number: ')
 a=float(a)
