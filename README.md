@@ -1,3 +1,4 @@
+# Assignment1-Task_1
 # Basic Mathematical Operations
 a=input('Enter first number: ')
 a=float(a)
@@ -12,6 +13,7 @@ print('subtraction: ', d)
 print('multiplication: ', e)
 print('division: ', f)
 
+# Assignment1-Task_2
 # Personalized Greeting
 first_name=input("Enter your first name: ")
 last_name=input("Enter your last name: ")
